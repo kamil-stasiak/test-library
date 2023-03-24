@@ -1,1 +1,1 @@
-export { SomeClass } from "./someClass";
+export { SomeClass, DifferentClass } from "./someClass";
